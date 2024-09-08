@@ -6,4 +6,12 @@ This project involves training a convolutional neural network (CNN) to denoise i
 ## Authors
 https://github.com/priyanshu4518
 
-## Screenshots 
+## Screenshots  
+### noisy data demo
+https://github.com/priyanshu4518/autoencoder_mnist_imagecleaning/blob/main/image/noisy_2.png 
+https://github.com/priyanshu4518/autoencoder_mnist_imagecleaning/blob/main/image/noisy_9.png  
+### cleaned data demo 
+https://github.com/priyanshu4518/autoencoder_mnist_imagecleaning/blob/main/image/clean_2.png 
+https://github.com/priyanshu4518/autoencoder_mnist_imagecleaning/blob/main/image/clean_9.png 
+
+
